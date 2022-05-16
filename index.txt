@@ -1,0 +1,243 @@
+Footcap - Find your footware
+
+alt = Footcap logo
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+alt = Footcap logo
+
+Home
+About
+Products
+Shop
+Blog
+Contact
+
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+Search
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Login / Register
+
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+Wishlist
+5
+
+<ion-icon name="bag-outline" aria-hidden="true"></ion-icon>
+Basket: $318.00
+4
+
+
+
+# HERO
+
+New Summer
+Shoes Collection
+
+Competently expedite alternative benefits whereas leading-edge catalysts for change. Globally leverage existing an expanded array of leadership.
+
+Shop Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+# COLLECTION
+
+Men Collections
+Explore All 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Women Collections
+
+Sports Collections
+
+
+
+# PRODUCTS
+
+Bestsellers Products
+
+All
+Nike
+Adidas
+Puma
+Bata
+Apex
+
+alt = Running Sneaker Shoes
+New
+
+<ion-icon name="cart-outline"></ion-icon>
+Add to Cart
+
+<ion-icon name="heart-outline"></ion-icon>
+Add to Whishlist
+
+<ion-icon name="eye-outline"></ion-icon>
+Quick View
+
+<ion-icon name="repeat-outline"></ion-icon>
+Compare
+
+Men / Women
+Running Sneaker Shoes
+$180.85
+
+alt = Leather Mens Slipper
+Men / Sports
+Leather Mens Slipper
+$190.85
+
+alt = Simple Fabric Shoe   
+New
+Men / Women
+Simple Fabric Shoe
+$160.85
+
+alt = Air Jordan 7 Retro 
+-25% 
+Men / Sports
+Air Jordan 7 Retro
+$170.85 
+$200.21
+
+alt = Nike Air Max 270 SE
+New
+Men / Women
+Nike Air Max 270 SE
+$120.85
+
+alt = Adidas Sneakers Shoes
+Men / Women
+Adidas Sneakers Shoes
+$100.85
+
+alt = Nike Basketball shoes
+Men / Sports
+Nike Basketball shoes
+$120.85
+
+alt = Simple Fabric Shoe
+Men / Women
+Simple Fabric Shoe
+$100.85
+
+
+
+# CTA
+
+Adidas Shoes
+The Summer Sale Off 50%
+Shop Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Nike Shoes
+Makes Yourself Keep Sporty
+
+
+
+# SPECIAL
+
+New Trend Edition
+
+Explore All
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Nike Special
+
+
+
+# SERVICE
+
+alt = Service icon
+Free Shiping
+All orders over
+$150
+
+Quick Payment
+100% secure payment
+
+Free Returns
+Money back in 30 days
+
+24/7 Support
+Get Quick Support
+
+
+
+# INSTA POST
+
+alt = Instagram post
+
+<ion-icon name="logo-instagram"></ion-icon>
+
+
+
+# FOOTER
+
+alt = Footcap logo
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Contact Us
+
+<ion-icon name="location"></ion-icon>
+2751 S Parker Rd, Aurora, CO 80014, United States
+
+
+<ion-icon name="call"></ion-icon>
++557343673257
+
+
+<ion-icon name="mail"></ion-icon>
+footcap@help.com
+
+My Account
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+My Account
+View Cart
+Wishlist
+Compare
+New Products
+
+Opening Time
+
+Mon - Tue:
+8AM - 10PM
+
+Wed:
+8AM - 7PM
+
+Fri:
+7AM - 12PM
+
+Sat:
+9AM - 8PM
+
+Sun:
+Closed
+
+Newsletter
+
+Authoritatively morph 24/7 potentialities with error-free partnerships.
+
+placeholder = Email Address
+Subscribe
+
+&copy; 2022 codewithsadee. All Rights Reserved
+
+
+
+# GO TOP
+
+<ion-icon name="arrow-up-outline"></ion-icon>
